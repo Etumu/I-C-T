@@ -1,4 +1,5 @@
-What is the main ICT trend: Block chain is one of the most essencial ICT TRENDS, it stands out for its ability to undertake secure Internet transactions without intermediaries, such as smart contracts that can be used
+What is the main ICT trend: Block chain is one of the most essencial ICT TRENDS, it stands out for its ability to undertake secure Internet transactions without intermediaries, such as smart contracts that can be used....
+
 cybersecurity: As most companies and firms began to do business online. Organizations and firms have started to move the bulk of data to offsite servers or the cloud, this increases the risks of hacks and breaches increase. Although cybersecurity crimes have alarmed major tech industries, companies shouldn’t underestimate how critical it is to keep their network security up to date.
 
 Nowadays, the majority of organizations are undergoing digital transformation and making themselves vulnerable to data security threats (hackers, viruses), Cybersecurity is the best solution for the protection of their digital business data. The goal of cybersecurity is to avoid cyberattacks, including protecting systems, networks, programs, devices, and data.
